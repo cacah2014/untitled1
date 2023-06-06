@@ -1,7 +1,23 @@
-#title
+body{
+    background-color: #e7e7e7;
+}
+p
 {
     color: red;
     font-size: 25px;
     background-color: yellow;
     text-align: center;
+}
+#images_bitcoin{
+    width: 300px;
+    height: auto;
+    border-radius: 12px;
+    margin-left: 30px;
+}
+#images_bitcoin1{
+    width: 300px;
+    height: 400px;
+    border-radius: 12px;
+    margin-left: 30px;
+
 }

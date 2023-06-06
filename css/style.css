@@ -13,11 +13,14 @@ p
     height: auto;
     border-radius: 12px;
     margin-left: 30px;
+    opacity: 0.5;
 }
 #images_bitcoin1{
+    opacity: 1;
     width: 300px;
     height: 400px;
     border-radius: 12px;
     margin-left: 30px;
+
 
 }
